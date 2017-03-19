@@ -1,0 +1,126 @@
+﻿<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:f="yandex:fotki" xmlns:georss="http://www.georss.org/georss">
+  <id>urn:yandex:fotki:aleksjdev:album:893342:photos</id>
+  <author>
+    <name>aleksjdev</name>
+    <f:uid>325161172</f:uid>
+  </author>
+  <title>Дача</title>
+  <updated>2015-07-13T09:08:27Z</updated>
+  <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/photos/" rel="self" />
+  <link href="http://fotki.yandex.ru/users/aleksjdev/album/893342/" rel="alternate" />
+  <entry>
+    <id>urn:yandex:fotki:aleksjdev:photo:1063760</id>
+    <author>
+      <name>aleksjdev</name>
+      <f:uid>325161172</f:uid>
+    </author>
+    <title>2015711174212.jpg</title>
+    <summary>Перед грозой</summary>
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063760/" rel="self" />
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063760/" rel="edit" />
+    <link href="http://fotki.yandex.ru/users/aleksjdev/view/1063760/" rel="alternate" />
+    <link href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_orig" rel="edit-media" />
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/" rel="album" />
+    <published>2015-07-13T09:07:44Z</published>
+    <app:edited>2015-07-13T09:13:13Z</app:edited>
+    <updated>2015-07-13T09:13:13Z</updated>
+    <f:created>2015-07-11T17:42:12Z</f:created>
+    <f:access value="public" />
+    <f:xxx value="false" />
+    <f:hide_original value="false" />
+    <f:disable_comments value="false" />
+    <f:img height="75" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XXS" size="XXS" width="75" />
+    <f:img height="600" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XL" size="XL" width="800" />
+    <f:img height="225" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_M" size="M" width="300" />
+    <f:img height="375" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_L" size="L" width="500" />
+    <f:img height="50" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XXXS" size="XXXS" width="50" />
+    <f:img height="960" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XXXL" size="XXXL" width="1280" />
+    <f:img height="113" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_S" size="S" width="150" />
+    <f:img height="75" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XS" size="XS" width="100" />
+    <f:img bytesize="5087459" height="3072" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_orig" size="orig" width="4096" />
+    <f:img height="768" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XXL" size="XXL" width="1024" />
+    <georss:point f:maptype="schema" f:zoomlevel="12">51.66524858213961 38.69347826577723</georss:point>
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="воронежская область" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="гроза" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="дачи" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="перед грозой" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="природа" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="пруд" />
+    <content src="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_orig" type="image/*" />
+  </entry>
+  <entry>
+    <id>urn:yandex:fotki:aleksjdev:photo:1063761</id>
+    <author>
+      <name>aleksjdev</name>
+      <f:uid>325161172</f:uid>
+    </author>
+    <title>2015711173749.jpg</title>
+    <summary>Перед грозой</summary>
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063761/" rel="self" />
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063761/" rel="edit" />
+    <link href="http://fotki.yandex.ru/users/aleksjdev/view/1063761/" rel="alternate" />
+    <link href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_orig" rel="edit-media" />
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/" rel="album" />
+    <published>2015-07-13T09:07:45Z</published>
+    <app:edited>2015-07-13T09:12:54Z</app:edited>
+    <updated>2015-07-13T09:12:54Z</updated>
+    <f:created>2015-07-11T17:37:49Z</f:created>
+    <f:access value="public" />
+    <f:xxx value="false" />
+    <f:hide_original value="false" />
+    <f:disable_comments value="false" />
+    <f:img height="75" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_XXS" size="XXS" width="75" />
+    <f:img height="600" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_XL" size="XL" width="800" />
+    <f:img height="225" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_M" size="M" width="300" />
+    <f:img height="375" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_L" size="L" width="500" />
+    <f:img height="50" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_XXXS" size="XXXS" width="50" />
+    <f:img height="960" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_XXXL" size="XXXL" width="1280" />
+    <f:img height="113" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_S" size="S" width="150" />
+    <f:img height="75" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_XS" size="XS" width="100" />
+    <f:img bytesize="4783657" height="3072" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_orig" size="orig" width="4096" />
+    <f:img height="768" href="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_XXL" size="XXL" width="1024" />
+    <georss:point f:maptype="schema" f:zoomlevel="12">51.66588904336095 38.693134943023324</georss:point>
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="воронежская область" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="гроза" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="перед грозой" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="природа" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="пруд" />
+    <category scheme="http://api-fotki.yandex.ru/api/users/aleksjdev/tags/" term="тучи" />
+    <content src="http://img-fotki.yandex.ru/get/15551/325161172.0/0_103b51_66bb8a17_orig" type="image/*" />
+  </entry>
+  <entry>
+    <id>urn:yandex:fotki:aleksjdev:photo:1063759</id>
+    <author>
+      <name>aleksjdev</name>
+      <f:uid>325161172</f:uid>
+    </author>
+    <title>20150712010058.jpg</title>
+    <summary>Леша с Катей:)</summary>
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063759/" rel="self" />
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063759/" rel="edit" />
+    <link href="http://fotki.yandex.ru/users/aleksjdev/view/1063759/" rel="alternate" />
+    <link href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_orig" rel="edit-media" />
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/" rel="album" />
+    <published>2015-07-13T09:07:43Z</published>
+    <app:edited>2015-07-13T09:07:43Z</app:edited>
+    <updated>2015-07-13T09:07:43Z</updated>
+    <f:created>2015-07-12T13:00:57Z</f:created>
+    <f:access value="public" />
+    <f:xxx value="false" />
+    <f:hide_original value="false" />
+    <f:disable_comments value="false" />
+    <f:img height="75" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_XXS" size="XXS" width="75" />
+    <f:img height="800" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_XL" size="XL" width="600" />
+    <f:img height="300" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_M" size="M" width="225" />
+    <f:img height="500" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_L" size="L" width="375" />
+    <f:img height="50" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_XXXS" size="XXXS" width="50" />
+    <f:img height="1280" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_XXXL" size="XXXL" width="960" />
+    <f:img height="150" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_S" size="S" width="113" />
+    <f:img height="100" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_XS" size="XS" width="75" />
+    <f:img bytesize="323949" height="1600" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_orig" size="orig" width="1200" />
+    <f:img height="1024" href="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_XXL" size="XXL" width="768" />
+    <georss:point f:maptype="schema" f:zoomlevel="12">51.66588912717998 38.693134943023324</georss:point>
+    <content src="http://img-fotki.yandex.ru/get/38/325161172.0/0_103b4f_beec3078_orig" type="image/*" />
+  </entry>
+  <f:image-count value="3" />
+</feed>

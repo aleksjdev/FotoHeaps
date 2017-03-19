@@ -1,0 +1,116 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:f="yandex:fotki">
+    <id>urn:yandex:fotki:aleksjdev:albums</id>
+    <author>
+        <name>aleksjdev</name>
+        <f:uid>325161172</f:uid>
+    </author>
+    <title>aleksjdev на Яндекс.Фотках</title>
+    <updated>2015-07-21T19:50:46Z</updated>
+    <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/albums/" rel="self" />
+    <link href="http://fotki.yandex.ru/users/aleksjdev/albums/" rel="alternate" />
+    <entry>
+        <id>urn:yandex:fotki:aleksjdev:album:1158819</id>
+        <author>
+            <name>aleksjdev</name>
+            <f:uid>325161172</f:uid>
+        </author>
+        <title>Альбом 1</title>
+        <summary>Классный альбом</summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158819/" rel="self" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158819/" rel="edit" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158819/photos/" rel="photos" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1067028/" rel="cover" />
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/10138/325161172.0/0_104814_ea7eab2a_XXS" size="XXS" width="75" />
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/10138/325161172.0/0_104814_ea7eab2a_S" size="S" width="113" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158819/photos.ymapsml/" rel="ymapsml" />
+        <link href="http://fotki.yandex.ru/users/aleksjdev/album/1158819/" rel="alternate" />
+        <published>2015-07-21T19:30:01Z</published>
+        <app:edited>2015-07-21T19:50:46Z</app:edited>
+        <updated>2015-07-21T19:50:46Z</updated>
+        <f:protected value="false" />
+        <f:image-count value="1" />
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aleksjdev:album:1158882</id>
+        <author>
+            <name>aleksjdev</name>
+            <f:uid>325161172</f:uid>
+        </author>
+        <title>Альбом 4</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158882/" rel="self" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158882/" rel="edit" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158882/photos/" rel="photos" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1067032/" rel="cover" />
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/16193/325161172.0/0_104818_f1a014e2_XXS" size="XXS" width="75" />
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/16193/325161172.0/0_104818_f1a014e2_S" size="S" width="113" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158882/photos.ymapsml/" rel="ymapsml" />
+        <link href="http://fotki.yandex.ru/users/aleksjdev/album/1158882/" rel="alternate" />
+        <published>2015-07-21T19:46:26Z</published>
+        <app:edited>2015-07-21T19:50:40Z</app:edited>
+        <updated>2015-07-21T19:50:40Z</updated>
+        <f:protected value="false" />
+        <f:image-count value="1" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158872/" rel="album" />
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aleksjdev:album:1158873</id>
+        <author>
+            <name>aleksjdev</name>
+            <f:uid>325161172</f:uid>
+        </author>
+        <title>Альбом 3</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158873/" rel="self" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158873/" rel="edit" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158873/photos/" rel="photos" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1067031/" rel="cover" />
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/6103/325161172.0/0_104817_822bfce_XXS" size="XXS" width="75" />
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/6103/325161172.0/0_104817_822bfce_S" size="S" width="150" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158873/photos.ymapsml/" rel="ymapsml" />
+        <link href="http://fotki.yandex.ru/users/aleksjdev/album/1158873/" rel="alternate" />
+        <published>2015-07-21T19:44:05Z</published>
+        <app:edited>2015-07-21T19:50:40Z</app:edited>
+        <updated>2015-07-21T19:50:40Z</updated>
+        <f:protected value="false" />
+        <f:image-count value="1" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158872/" rel="album" />
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aleksjdev:album:1158872</id>
+        <author>
+            <name>aleksjdev</name>
+            <f:uid>325161172</f:uid>
+        </author>
+        <title>Альбом 2</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158872/" rel="self" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158872/" rel="edit" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158872/photos/" rel="photos" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/1158872/photos.ymapsml/" rel="ymapsml" />
+        <link href="http://fotki.yandex.ru/users/aleksjdev/album/1158872/" rel="alternate" />
+        <published>2015-07-21T19:43:42Z</published>
+        <app:edited>2015-07-21T19:50:40Z</app:edited>
+        <updated>2015-07-21T19:50:40Z</updated>
+        <f:protected value="false" />
+        <f:image-count value="0" />
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aleksjdev:album:893342</id>
+        <author>
+            <name>aleksjdev</name>
+            <f:uid>325161172</f:uid>
+        </author>
+        <title>Дача</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/" rel="self" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/" rel="edit" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/photos/" rel="photos" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/photo/1063760/" rel="cover" />
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_XXS" size="XXS" width="75" />
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/3911/325161172.0/0_103b50_19c65223_S" size="S" width="150" />
+        <link href="http://api-fotki.yandex.ru/api/users/aleksjdev/album/893342/photos.ymapsml/" rel="ymapsml" />
+        <link href="http://fotki.yandex.ru/users/aleksjdev/album/893342/" rel="alternate" />
+        <published>2015-07-13T09:02:34Z</published>
+        <app:edited>2015-07-21T19:50:40Z</app:edited>
+        <updated>2015-07-21T19:50:40Z</updated>
+        <f:protected value="false" />
+        <f:image-count value="2" />
+    </entry>
+</feed>

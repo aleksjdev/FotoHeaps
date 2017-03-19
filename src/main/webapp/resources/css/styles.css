@@ -1,0 +1,26 @@
+.imagebox {
+    padding: 20px;
+}
+.albumbox {
+    padding: 20px;
+}
+div.ui-tooltip {
+    max-width: 400px;
+}
+.panel-heading.affix {
+    width: 100%;
+}
+.panel-title {
+    padding-top: 7.5px;
+}
+.panel-body {
+    padding-top: 50px;
+}
+.form-border {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+.navbar-brand {
+    color: #ffffff !important;
+}
+
